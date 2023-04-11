@@ -13,7 +13,9 @@ The full dataset contains 27,000,000 ratings and 1,100,000 tag applications appl
 
 ### Execution Phases
 Phase 1: Loading and parsing the dataset. Persisting the resulting RDD for later use.
+
 Phase 2: Building the recommender model using the complete dataset. Persist the dataset for later use.
+
 Phase 3: Testing the recommender by adding two new users and their preferences. Run the recommender to produce movie recommendations. 
 
 #### Dataset Source: 
