@@ -1,6 +1,5 @@
 # collaborative-filtering
 
-## Project Overview 
 
 ### Goal
 The goal of the project is to create a movie recommendation tool based on existing users' ratings for an imginary startup business, "Ripe Pumpkins" using Apache Spark in R. 
