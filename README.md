@@ -3,7 +3,7 @@
 ## Project Overview 
 
 ### Goal
-The goal of the project is to create a movie recommendation tool based on existing users' ratings for an imginary startup business, "Ripe Pumpkins". 
+The goal of the project is to create a movie recommendation tool based on existing users' ratings for an imginary startup business, "Ripe Pumpkins" using Apache Spark in R. 
 
 In Collaborative recommendation (collaborative filtering) we make predictions (filtering) about the interests of a user by collecting preferences or taste information from many users (collaborating). The underlying assumption is that if a user A has the same opinion as a user B on an issue, A is more likely to have B's opinion on a different issue x than to have the opinion on x of a user chosen randomly.
 
